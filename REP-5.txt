@@ -1,0 +1,8 @@
+                                         CALCULATE AREA OF TRIANGLE
+
+height = float(input("Enter the height of traingle:"))
+base = float(input("Enter the base of traingle:"))
+
+area=(0.5)*base*height
+
+print("The area of the traingle is:",area)
